@@ -1,16 +1,13 @@
-# capstone
+# Capstone_Project
+Coursera Course Final Project
+# User Stories
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. As a new user, I want to create an account so that I can access the app's features.
+2. As a returning user, I want to log in so that I can access my personalized content.
+3. As a user, I want to view a home screen with featured content.
+4. As a user, I want to view detailed information about items.
+5. As a user, I want to save items to my favorites for later viewing.
+6. As a user, I want to access settings to customize my app experience.
+7. As a user, I want to receive notifications about important updates.
+8. As a user, I want the app to remember my preferences between sessions.
+9. As a user, I want to view data fetched from external APIs.
